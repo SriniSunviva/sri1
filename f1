@@ -1,2 +1,2 @@
-hello1
-hello2
+echo "output1"
+echo "output2"
