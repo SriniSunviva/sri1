@@ -1,4 +1,2 @@
-df -hT
-uptime
 echo "hi"
 
